@@ -16,6 +16,7 @@ Quarto, entrei no Leornado.AI e pedi para ele gerar uma foto bem natural do resu
 
 ## 🚀 Resultados
 Acesse a pasta receita e confira o resultado.
+Depois clique na imagem do bolo de fubá e veja como ficou a imagem gerada pela IA.
 
 ## 💭 Reflexão (Opcional)
 Eu achei que ela interagiu muito bem, parece mesmo que foi uma pessoa que escreveu. A imagem parece que foi tirada, ficou bem real.
