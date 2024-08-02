@@ -22,7 +22,6 @@ Ah, as receitas da vovó têm um sabor todo especial, né? Elas têm aquele toqu
 6.	Despeje em uma forma untada e asse em forno preaquecido a 180°C por 45 a 50 minutos.
 7.	Desenforme ainda quente e aproveite!
  
- [image](/desafio-natty-or-not/receita/Default_Create_an_image_that_looks_like_a_natural_slightly_ang_2.jpg)
 
 	Lembro com carinho das tardes na cozinha da vovó, observando-a em seu avental florido, preparando tudo com tanto amor. Ela nunca usava receitas escritas, só ia no olho e no coração. Deixava-me mexer a massa e sempre dizia que o segredo era fazer tudo com carinho.
 	O cheiro delicioso tomava conta da casa, e cada prato que ela fazia era um pedaço dela: o Bolo de Fubá Fofinho da Vovó com aquele toque especial. 
