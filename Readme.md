@@ -1,4 +1,4 @@
-# Receitas da vovê
+# Receitas da vovó
 
 ## 📒 Descrição
 Uma menina descrevendo três receitas simples da vovê.
