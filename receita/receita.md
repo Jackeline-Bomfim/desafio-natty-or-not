@@ -3,14 +3,14 @@ Ah, as receitas da vovó têm um sabor todo especial, né? Elas têm aquele toqu
 1.	Bolo de Fubá Fofinho da Vovó:
 
 	Ingredientes: 
-	4 ovos
-	2 xícaras de açúcar
-	1/2 xícara de óleo
-	2 xícaras de farinha de trigo
-	1 e 1/2 xícara de leite
-	1 xícara de amido de milho (maisena)
-	1/2 xícara de coco ralado (opcional)
-	1 colher de sopa de fermento em pó
+	<p>4 ovos</p>
+	<p>2 xícaras de açúcar</p>
+	<p>1/2 xícara de óleo</p>
+	<p>2 xícaras de farinha de trigo</p>
+	<p>1 e 1/2 xícara de leite</p>
+	<p>1 xícara de amido de milho (maisena)</p>
+	<p>1/2 xícara de coco ralado (opcional)</p>
+	<p>1 colher de sopa de fermento em pó</p>
 
 	Modo de preparo: 
 
